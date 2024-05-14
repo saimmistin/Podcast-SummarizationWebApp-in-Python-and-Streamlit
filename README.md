@@ -4,7 +4,7 @@
 
 Overview
 
-The provided code segment is part of a project aimed at transcribing podcast episodes automatically using AssemblyAI and Listen Notes APIs. The script retrieves audio data from Listen Notes API, transcribes it using AssemblyAI, and saves the transcription along with other metadata such as episode and podcast titles, thumbnail, and chapter information.
+This project aimed at transcribing podcast episodes automatically using AssemblyAI and Listen Notes APIs. The script retrieves audio data from Listen Notes API, transcribes it using AssemblyAI, and saves the transcription along with other metadata such as episode and podcast titles, thumbnail, and chapter information.
 
 Functionality
 
